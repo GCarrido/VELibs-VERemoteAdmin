@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.757
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VERemoteAdmin", "VERemoteAdmin.csproj", "{6FBC9AE5-31EF-413C-979D-1857AC45E2E1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Refs", "Refs", "{3D4135EE-5514-4E11-BA24-68E2AC5AC03D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{3D4135EE-5514-4E11-BA24-68E2AC5AC03D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VENet", "..\VENet\VENet.csproj", "{CF180852-50F9-46DB-B8FD-BA1089F1225F}"
 EndProject
