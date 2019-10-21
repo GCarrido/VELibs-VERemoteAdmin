@@ -19,7 +19,7 @@ namespace VERemoting
 
 		#region Backup
 
-		protected VEAdminFileName backupObject = new VEAdminFileName();
+		protected new VEAdminFileName backupObject = new VEAdminFileName();
 
 		protected override string ActiveSchema
 		{
